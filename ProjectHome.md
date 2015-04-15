@@ -1,0 +1,1 @@
+A CoffeeScript GZip implementation from scratch.
